@@ -1,4 +1,4 @@
-# 🏥 Kader+ API (Backend)
+## Kader+ API (Backend)
 
 Repository ini berisi backend API untuk aplikasi **Kader+**, sebuah sistem informasi posyandu digital yang dirancang untuk membantu **Kader** di lapangan dan **Admin (Puskesmas/Bidan)** dalam mengelola data Posyandu, Kader, serta Pasien (Balita & Ibu Hamil).
 
@@ -36,11 +36,3 @@ Database dirancang menggunakan **SQLite** dengan relasi sebagai berikut:
 *   **Local Server:** Laravel Herd (macOS)
 *   **Database:** SQLite
 *   **API Testing:** Postman
-
----
-
-## Cara Menjalankan Proyek Secara Lokal
-
-1. Clone repository ini:
-   ```bash
-   git clone <URL_GITHUB_KAMU>
